@@ -4,6 +4,5 @@ The inspiration for this design was from <a href="https://codepen.io/bradtravers
 
 Finished the website design on March 15, 2018.
 
-Featured photograph from website (courtesy of <a href="https://unsplash.com/" target="_blank">Unsplash</a>):
-<br />
-<img src="https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?dl&fit=crop&w=1920&h=1275"></img>
+<p>Screenshot of website design (featured on <a href="https://dribbble.com/shots/4354342-Split-Landing-Page-Design">Dribbble</a>):</p>
+<img src="https://cdn.dribbble.com/users/2010882/screenshots/4354342/edit3.png"></img>
