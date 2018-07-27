@@ -1,4 +1,4 @@
-# Split Landing Page Example (https://lauramwall.github.io/Split-Landing-Page-Example/)
+# Split Landing Page Example (<a href="https://lauramwall.github.io/Split-Landing-Page-Example/" target="_blank">LINK</a>)
 
 The inspiration for this design was from <a href="https://codepen.io/bradtraversy/pen/dJzzdB">Traversy Media</a>. Finished the website design and development on March 15, 2018.
 
